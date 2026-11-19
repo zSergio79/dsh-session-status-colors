@@ -1,0 +1,8 @@
+# dsh-session-status-colors bundle patch.
+#
+# The row colours are a Client-only stylesheet, so the Host row exists only to
+# publish this package as an enabled Loader entry that the Web client graph
+# picks up. It has no configuration and starts nothing on the Host.
+- insert:
+    - id: session-status-colors
+      name: dsh-session-status-colors

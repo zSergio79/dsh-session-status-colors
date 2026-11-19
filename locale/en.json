@@ -1,0 +1,6 @@
+{
+  "meta": {
+    "title": "Session status colours",
+    "description": "Colour a sidebar Session's title by its state: green while it is open or working, amber while it waits on you, grey once archived, and the normal label colour for everything else. Green has three tones: the open Session that is also working, the open Session at rest, and a Session that works while you look elsewhere. Only titles change — the time, the pin marker, the status dots and the hover buttons keep the host's colours. Each theme gets its own palette, so both light and dark stay readable. No Host behaviour is added; disabling the plugin restores the stock rows immediately."
+  }
+}

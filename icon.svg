@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="36" height="36" viewBox="0 0 36 36" role="img" aria-label="Session status colours">
+  <!-- Three Session rows, one per state: working (green), waiting (amber), archived (grey). -->
+  <rect x="6" y="9" width="4" height="4" rx="2" fill="rgb(34, 197, 94)"/>
+  <rect x="13" y="10.5" width="17" height="2.5" rx="1.25" fill="rgb(34, 197, 94)"/>
+  <rect x="6" y="17" width="4" height="4" rx="2" fill="rgb(245, 158, 11)"/>
+  <rect x="13" y="18.5" width="13" height="2.5" rx="1.25" fill="rgb(245, 158, 11)"/>
+  <rect x="6" y="25" width="4" height="4" rx="2" fill="rgb(162, 164, 166)"/>
+  <rect x="13" y="26.5" width="17" height="2.5" rx="1.25" fill="rgb(162, 164, 166)"/>
+</svg>
